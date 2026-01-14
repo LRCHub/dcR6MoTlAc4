@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "base_track": "Se Acabó el Amor",
+  "base_artist": "Adolescent's Orquesta",
+  "createdAt": "2026-01-14T00:41:26.863799Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Se Acabó el Amor",
+      "artist": "Adolescent's Orquesta",
+      "has_synced": false,
+      "path": "select/01_Se_Acabó_el_Amor_Adolescent's_Orquesta.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Si se acabó el amor",
+      "artist": "Intocable",
+      "has_synced": true,
+      "path": "select/02_Si_se_acabó_el_amor_Intocable.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Se Acabó el Amor",
+      "artist": "Sergio Galleguillo",
+      "has_synced": false,
+      "path": "select/03_Se_Acabó_el_Amor_Sergio_Galleguillo.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Se Acabó el Amor",
+      "artist": "Adolescent´s Orquesta",
+      "has_synced": true,
+      "path": "select/04_Se_Acabó_el_Amor_Adolescent_́s_Orquesta.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Se Acabó el Amor",
+      "artist": "Oscar D'León",
+      "has_synced": false,
+      "path": "select/05_Se_Acabó_el_Amor_Oscar_D'León.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Se Acabo El Amor",
+      "artist": "Video • J Alvarez",
+      "has_synced": true,
+      "path": "select/06_Se_Acabo_El_Amor_Video_•_J_Alvarez.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Se Acabo el Amor",
+      "artist": "Grupo Play",
+      "has_synced": false,
+      "path": "select/07_Se_Acabo_el_Amor_Grupo_Play.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Se Acabó el Amor",
+      "artist": "DJ Unic",
+      "has_synced": true,
+      "path": "select/08_Se_Acabó_el_Amor_DJ_Unic.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Se Acabo el Amor",
+      "artist": "J Alvarez",
+      "has_synced": true,
+      "path": "select/09_Se_Acabo_el_Amor_J_Alvarez.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "SE ACABO EL AMOR",
+      "artist": "LOS ADOLESCENTES",
+      "has_synced": true,
+      "path": "select/10_SE_ACABO_EL_AMOR_LOS_ADOLESCENTES.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Se Acabó El Amor",
+      "artist": "Abraham Mateo",
+      "has_synced": true,
+      "path": "select/11_Se_Acabó_El_Amor_Abraham_Mateo.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Se Acabó el Amor",
+      "artist": "Dj Unic & Lenier",
+      "has_synced": true,
+      "path": "select/12_Se_Acabó_el_Amor_Dj_Unic_&_Lenier.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Se Acabó el Amor",
+      "artist": "Sonora 5 Estrellas",
+      "has_synced": false,
+      "path": "select/13_Se_Acabó_el_Amor_Sonora_5_Estrellas.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Se Acabo El Amor",
+      "artist": "J Alvarez",
+      "has_synced": true,
+      "path": "select/14_Se_Acabo_El_Amor_J_Alvarez.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Se Acabó El Amor",
+      "artist": "J Alvarez",
+      "has_synced": true,
+      "path": "select/15_Se_Acabó_El_Amor_J_Alvarez.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Si se acabó el amor",
+      "artist": "Intocable",
+      "has_synced": false,
+      "path": "select/16_Si_se_acabó_el_amor_Intocable.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Se Acabo El Amor (Version Ranchera)",
+      "artist": "Adolescents Orquesta",
+      "has_synced": false,
+      "path": "select/17_Se_Acabo_El_Amor_(Version_Ranchera)_Adolescents_Orquesta.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Se Acabó el Amor",
+      "artist": "Adolescent's Orquesta",
+      "has_synced": true,
+      "path": "select/18_Se_Acabó_el_Amor_Adolescent's_Orquesta.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Se Acabó el Amor (Versión Ranchera)",
+      "artist": "Adolescent´s Orquesta",
+      "has_synced": true,
+      "path": "select/19_Se_Acabó_el_Amor_(Versión_Ranchera)_Adolescent_́s_Orquesta.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Se acabo el amor",
+      "artist": "J Alvarez Ft. Eddy Lover",
+      "has_synced": false,
+      "path": "select/20_Se_acabo_el_amor_J_Alvarez_Ft._Eddy_Lover.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Se Acabo El Amor",
+      "artist": "Adolescent's Orquesta",
+      "has_synced": false,
+      "path": "select/pl_01_Se_Acabo_El_Amor_Adolescent's_Orquesta.txt"
+    }
+  ]
+}
